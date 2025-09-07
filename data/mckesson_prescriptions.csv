@@ -1,0 +1,24 @@
+prescription_id,patient_id,prescriber_name,medication_name,medication_strength,quantity,days_supply,prescribed_date,filled_date,pickup_date,pickup_status,pharmacy_location,refills_remaining,cost,insurance_copay
+RX001,P001,Dr. Sarah Johnson,Lisinopril,10mg,30,30,2024-01-15,2024-01-16,2024-01-18,Picked Up,AHF Pharmacy - West Hollywood,2,$15.99,$10.00
+RX002,P001,Dr. Sarah Johnson,Metoprolol,50mg,60,30,2024-01-15,2024-01-16,2024-01-18,Picked Up,AHF Pharmacy - West Hollywood,2,$22.50,$15.00
+RX003,P002,Dr. Michael Chen,Multivitamin,Daily,30,30,2024-01-18,2024-01-19,,Not Picked Up,AHF Pharmacy - Beverly Hills,0,$12.99,$0.00
+RX004,P003,Dr. Emily Rodriguez,Amoxicillin,500mg,21,7,2024-01-22,2024-01-23,2024-01-24,Picked Up,AHF Pharmacy - Santa Monica,0,$18.75,$5.00
+RX005,P004,Dr. Emily Rodriguez,Metformin,500mg,60,30,2024-01-28,2024-01-29,2024-01-30,Picked Up,AHF Pharmacy - Pasadena,5,$25.00,$10.00
+RX006,P004,Dr. Emily Rodriguez,Glipizide,5mg,30,30,2024-01-28,2024-01-29,,Not Picked Up,AHF Pharmacy - Pasadena,5,$35.50,$20.00
+RX007,P005,Dr. Michael Chen,Sertraline,50mg,30,30,2024-02-01,2024-02-02,2024-02-03,Picked Up,AHF Pharmacy - Long Beach,2,$28.99,$15.00
+RX008,P006,Dr. David Kim,Amlodipine,5mg,30,30,2024-02-05,2024-02-06,,Not Picked Up,AHF Pharmacy - Glendale,3,$19.99,$10.00
+RX009,P008,Dr. Emily Rodriguez,Cyclobenzaprine,10mg,15,15,2024-02-15,2024-02-16,2024-02-17,Picked Up,AHF Pharmacy - Burbank,0,$16.50,$5.00
+RX010,P008,Dr. Emily Rodriguez,Ibuprofen,600mg,30,30,2024-02-15,2024-02-16,2024-02-17,Picked Up,AHF Pharmacy - Burbank,2,$8.99,$0.00
+RX011,P009,Dr. Michael Chen,Escitalopram,10mg,30,30,2024-02-18,2024-02-19,,Not Picked Up,AHF Pharmacy - Torrance,3,$32.75,$20.00
+RX012,P010,Dr. David Kim,Naproxen,500mg,20,20,2024-02-25,2024-02-26,2024-02-27,Picked Up,AHF Pharmacy - Inglewood,1,$14.25,$5.00
+RX013,P012,Dr. Emily Rodriguez,Sumatriptan,50mg,9,30,2024-03-05,2024-03-06,,Not Picked Up,AHF Pharmacy - Manhattan Beach,2,$45.99,$25.00
+RX014,P005,Dr. Michael Chen,Sertraline,75mg,30,30,2024-03-08,2024-03-09,2024-03-10,Picked Up,AHF Pharmacy - Long Beach,2,$31.50,$15.00
+RX015,P013,Dr. Michael Chen,Iron Supplement,65mg,30,30,2024-03-12,2024-03-13,,Not Picked Up,AHF Pharmacy - Redondo Beach,0,$9.99,$0.00
+RX016,P006,Dr. David Kim,Amlodipine,10mg,30,30,2024-03-15,2024-03-16,,Not Picked Up,AHF Pharmacy - Glendale,3,$22.50,$10.00
+RX017,P001,Dr. Sarah Johnson,Atorvastatin,20mg,30,30,2024-03-20,2024-03-21,,Not Picked Up,AHF Pharmacy - West Hollywood,5,$28.99,$15.00
+RX018,P004,Dr. Emily Rodriguez,Metformin,1000mg,60,30,2024-03-01,2024-03-02,2024-03-03,Picked Up,AHF Pharmacy - Pasadena,5,$32.00,$10.00
+RX019,P007,Dr. Sarah Johnson,Calcium Supplement,600mg,60,60,2024-02-08,2024-02-09,,Not Picked Up,AHF Pharmacy - West Hollywood,0,$15.50,$0.00
+RX020,P014,Dr. David Kim,Sunscreen,SPF 30,1,30,2024-03-18,2024-03-19,,Not Picked Up,AHF Pharmacy - El Segundo,0,$12.99,$0.00
+RX021,P002,Dr. Michael Chen,Atorvastatin,40mg,30,30,2024-02-12,2024-02-13,,Not Picked Up,AHF Pharmacy - Beverly Hills,5,$35.75,$20.00
+RX022,P011,Dr. Sarah Johnson,Multivitamin,Daily,60,60,2024-02-28,2024-03-01,,Not Picked Up,AHF Pharmacy - Culver City,0,$18.99,$0.00
+RX023,P015,Dr. Sarah Johnson,Lisinopril,5mg,30,30,2024-03-22,2024-03-23,,Not Picked Up,AHF Pharmacy - Hawthorne,3,$13.50,$10.00

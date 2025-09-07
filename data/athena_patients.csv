@@ -1,0 +1,16 @@
+patient_id,first_name,last_name,date_of_birth,gender,phone,email,address,city,state,zip_code,insurance_id,primary_care_provider
+P001,Maria,Rodriguez,1985-03-15,F,555-0101,maria.rodriguez@email.com,123 Main St,Los Angeles,CA,90210,INS001,Dr. Sarah Johnson
+P002,James,Thompson,1978-07-22,M,555-0102,james.thompson@email.com,456 Oak Ave,West Hollywood,CA,90069,INS002,Dr. Michael Chen
+P003,Linda,Davis,1992-11-08,F,555-0103,linda.davis@email.com,789 Pine Rd,Beverly Hills,CA,90210,INS003,Dr. Sarah Johnson
+P004,Robert,Wilson,1965-05-30,M,555-0104,robert.wilson@email.com,321 Elm St,Santa Monica,CA,90401,INS004,Dr. Emily Rodriguez
+P005,Jennifer,Brown,1988-09-12,F,555-0105,jennifer.brown@email.com,654 Cedar Ln,Pasadena,CA,91101,INS005,Dr. Michael Chen
+P006,Michael,Jones,1975-12-03,M,555-0106,michael.jones@email.com,987 Birch Dr,Long Beach,CA,90802,INS006,Dr. David Kim
+P007,Sarah,Garcia,1990-04-18,F,555-0107,sarah.garcia@email.com,147 Maple Ave,Glendale,CA,91201,INS007,Dr. Sarah Johnson
+P008,David,Martinez,1982-08-25,M,555-0108,david.martinez@email.com,258 Walnut St,Burbank,CA,91501,INS008,Dr. Emily Rodriguez
+P009,Lisa,Anderson,1995-01-07,F,555-0109,lisa.anderson@email.com,369 Spruce Ct,Torrance,CA,90501,INS009,Dr. Michael Chen
+P010,Christopher,Taylor,1970-10-14,M,555-0110,christopher.taylor@email.com,741 Ash Blvd,Inglewood,CA,90301,INS010,Dr. David Kim
+P011,Amanda,Thomas,1987-06-29,F,555-0111,amanda.thomas@email.com,852 Poplar St,Culver City,CA,90232,INS011,Dr. Sarah Johnson
+P012,Daniel,Jackson,1993-02-16,M,555-0112,daniel.jackson@email.com,963 Willow Ave,Manhattan Beach,CA,90266,INS012,Dr. Emily Rodriguez
+P013,Michelle,White,1980-12-21,F,555-0113,michelle.white@email.com,159 Hickory Rd,Redondo Beach,CA,90277,INS013,Dr. Michael Chen
+P014,Kevin,Harris,1976-09-05,M,555-0114,kevin.harris@email.com,357 Dogwood Dr,El Segundo,CA,90245,INS014,Dr. David Kim
+P015,Rebecca,Martin,1991-03-28,F,555-0115,rebecca.martin@email.com,468 Sycamore Ln,Hawthorne,CA,90250,INS015,Dr. Sarah Johnson

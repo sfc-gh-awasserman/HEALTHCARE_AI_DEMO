@@ -1,0 +1,16 @@
+appointment_id,patient_id,appointment_date,appointment_time,appointment_type,provider_name,status,reason_for_visit,created_date,last_modified
+A001,P001,2024-03-25,09:00:00,Follow-up,Dr. Sarah Johnson,Scheduled,Stress test results review,2024-03-01,2024-03-01
+A002,P002,2024-03-28,14:30:00,Lab Review,Dr. Michael Chen,Scheduled,Cholesterol recheck,2024-02-12,2024-02-12
+A003,P004,2024-04-02,10:15:00,Follow-up,Dr. Emily Rodriguez,Scheduled,Diabetes management,2024-03-01,2024-03-01
+A004,P005,2024-04-05,11:00:00,Therapy,Dr. Michael Chen,Scheduled,Anxiety counseling,2024-03-08,2024-03-08
+A005,P006,2024-04-08,08:30:00,Follow-up,Dr. David Kim,Scheduled,Blood pressure check,2024-03-15,2024-03-15
+A006,P008,2024-04-10,13:45:00,Physical Therapy,Physical Therapist,Scheduled,Back pain treatment,2024-02-15,2024-02-15
+A007,P009,2024-04-12,16:00:00,Counseling,Therapist,Scheduled,Depression counseling,2024-02-18,2024-02-18
+A008,P010,2024-04-15,09:30:00,Imaging,Radiology,Scheduled,Knee X-rays,2024-02-25,2024-02-25
+A009,P012,2024-04-18,15:15:00,Follow-up,Dr. Emily Rodriguez,Scheduled,Headache follow-up,2024-03-05,2024-03-05
+A010,P013,2024-04-20,10:45:00,Lab Work,Lab Tech,Scheduled,Fatigue workup labs,2024-03-12,2024-03-12
+A011,P014,2024-04-22,14:00:00,Specialist,Dermatologist,Scheduled,Skin lesion evaluation,2024-03-18,2024-03-18
+A012,P007,2024-04-25,11:30:00,Annual Physical,Dr. Sarah Johnson,Scheduled,Annual checkup,2024-03-20,2024-03-20
+A013,P011,2024-04-28,08:00:00,Follow-up,Dr. Sarah Johnson,Scheduled,General follow-up,2024-03-25,2024-03-25
+A014,P003,2024-05-01,16:30:00,Preventive Care,Dr. Emily Rodriguez,Scheduled,Routine screening,2024-04-01,2024-04-01
+A015,P015,2024-05-03,12:00:00,New Patient,Dr. Sarah Johnson,Scheduled,Initial consultation,2024-04-15,2024-04-15

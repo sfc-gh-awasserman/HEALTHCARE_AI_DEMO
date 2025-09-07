@@ -1,0 +1,39 @@
+# Snowflake credentials and sensitive files
+*.env
+*.key
+*.pem
+*credentials*
+*config.json
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+
+# Backup files
+*.bak
+*.backup
+
+# Snowflake specific
+*.sql.bak
+query_results/
