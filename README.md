@@ -1,4 +1,4 @@
-# Snowflake Intelligence Healthcare Demo for Healthcare
+# Snowflake Intelligence Healthcare Demo 
 
 This demo showcases the power of Snowflake Intelligence by integrating data from AthenaHealth EHR and McKesson pharmacy systems to provide comprehensive healthcare insights.
 
